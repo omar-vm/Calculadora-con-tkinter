@@ -1,0 +1,23 @@
+# Carpetas de entorno virtual
+.venv/
+venv/
+env/
+
+# Archivos de caché
+__pycache__/
+*.py[cod]
+
+# Archivos de configuración del entorno
+.env
+*.env
+
+# Archivos del sistema operativo
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Archivos de logs
+*.log
+
+# Archivos temporales de IDEs
+.vscode/
+.idea/
